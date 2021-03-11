@@ -1,4 +1,5 @@
 {
+	"name": "hehe",
 	"env": {
 		"MY_PASSWORD": "is-plain-text"
 	}
