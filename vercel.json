@@ -1,5 +1,6 @@
 {
 	"env": {
-		"MY_PASSWORD": "is-plain-text"
+		"MY_PASSWORD": "is-plain-text",
+		"OTHER_PASSWORD": "otherhap"
 	}
 }
